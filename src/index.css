@@ -1,0 +1,22 @@
+.list{
+    display: flex;
+    background-color: rgb(223, 222, 222); 
+    margin:20px auto 0 auto;
+    width:70%;
+
+}
+
+.inp_1{
+    margin-top:18px;
+    margin-right:20px;
+}
+.delete{
+    height: 20px;
+    margin:15px 0 0 280px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.btn{
+    cursor: pointer;
+}
